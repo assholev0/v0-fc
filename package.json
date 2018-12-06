@@ -1,0 +1,31 @@
+{
+  "name": "v0-fc",
+  "version": "0.0.0",
+  "description": "腾讯云函数计算FC命令行工具",
+  "repository": "git@github.com:assholev0/v0-fc.git",
+  "author": "willin <willin@willin.org>",
+  "main": "scr/index.js",
+  "bin": {
+    "fc": "bin/fc.js"
+  },
+  "keywords": [
+    "fc",
+    "aliyun",
+    "阿里云",
+    "函数计算",
+    "v0"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^3.0.0",
+    "chalk": "^2.4.1",
+    "cli-list": "^0.2.0",
+    "fs-extra": "^7.0.1",
+    "inquirer": "^6.2.0",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-dwing": "^1.2.1"
+  }
+}

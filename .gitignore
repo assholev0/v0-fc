@@ -1,0 +1,9 @@
+node_modules/
+demo/
+temp/
+.nyc_output/
+.fc_rc
+
+.DS_Store
+*.log
+*.log.*

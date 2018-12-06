@@ -1,0 +1,8 @@
+{
+  "name": "v0-fc-function",
+  "version": "1.0.0",
+  "description": "阿里云函数计算fc命令行辅助工具",
+  "dependencies": {
+    "waliyun": "latest"
+  }
+}
